@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2015",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Metaphysics"
+    ]
+  ],
+  "legacy_uid": "3735689f-f255-c35e-95cf-2cb7d6339aa3",
+  "instructors": {
+    "content": [
+      "169f09f3-c08e-0af4-754a-b003ea0b87c2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "399908f7-eee6-6ad2-8e4c-27bf25617e84",
+    "website": "24-221-metaphysics-spring-2015"
+  },
+  "course_title": "Metaphysics",
+  "course_description": "This course is a study of basic metaphysical issues concerning existence, the mind-body problem, personal identity, and causation plus its implications for freedom. This class features classical as well as contemporary readings and it provides practice in written and oral communication.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.221",
+  "course_image_thumbnail": {
+    "content": "c6129760-56fd-0fa5-1f30-9d4dcb690088",
+    "website": "24-221-metaphysics-spring-2015"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "a4f4db42-add7-4100-a194-18d9e1653e86",
+  "title": "Course Metadata"
+}
